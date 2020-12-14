@@ -1,7 +1,3 @@
-CSC409 A3: r/place
-
-By Ali Raza, Erik Holmes, Shahmeer Shahid
-
 - [1. Architecture](#1-architecture)
   - [1.1. Diagram](#11-diagram)
   - [1.2. Components](#12-components)
